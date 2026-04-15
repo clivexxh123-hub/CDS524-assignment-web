@@ -1,74 +1,68 @@
-# CDS524 Assignment Web
+# Xinghao Xu - Portfolio Website
 
-This project is prepared for deployment with GitHub Pages.
+This repository hosts the personal portfolio website of **Xinghao Xu**.
 
-Repository:
-`https://github.com/clivexxh123-hub/CDS524-assignment-web`
+Live website:  
+[https://clivexxh123-hub.github.io/CDS524-assignment-web/](https://clivexxh123-hub.github.io/CDS524-assignment-web/)
 
-Expected GitHub Pages URL:
-`https://clivexxh123-hub.github.io/CDS524-assignment-web/`
+## Profile
 
-## Files To Upload
+Xinghao Xu is an MSc student in **Artificial Intelligence and Business Analytics** at **Lingnan University** with a background in digital media, software development, game development, and interactive systems.
 
-Make sure these files are in the project folder:
+His work focuses on building practical systems across:
 
-- `index.html`
-- `styles.css`
-- `script.js`
-- `Xinghao_Xu_CV.docx`
+- AI automation
+- software engineering
+- interactive digital experiences
+- smart contract audit support
 
-## Push Local Files To GitHub
+## What This Website Shows
 
-Open PowerShell in:
+The portfolio is designed to give recruiters, hiring managers, and project collaborators a clear overview of:
 
-`C:\Users\ASUS\Desktop\524 individual project`
+- professional direction and technical interests
+- education background
+- applied technical skills
+- selected projects
+- resume and contact information
 
-Then run:
+## Highlighted Strengths
 
-```powershell
-git init
-git add .
-git commit -m "Initial portfolio site"
-git branch -M main
-git remote add origin https://github.com/clivexxh123-hub/CDS524-assignment-web.git
-git push -u origin main
-```
+- Builds AI-agent and multi-tool workflows for practical automation
+- Develops interactive systems with Unity, C#, and 3D assets
+- Translates technical outputs into clear, structured reports
+- Works across software, research, and user-facing experience design
 
-## If Git Says The Remote Already Exists
+## Selected Project Themes
 
-Run:
+### Smart Contract Auditing Workflow
+Built a workflow to convert raw multi-tool audit outputs into more structured and interpretable analysis reports.
 
-```powershell
-git remote set-url origin https://github.com/clivexxh123-hub/CDS524-assignment-web.git
-git push -u origin main
-```
+### 3D RPG Adventure Game
+Developed a Unity-based 3D gameplay prototype with scripting, interaction logic, and player experience design.
 
-## Enable GitHub Pages
+### 3D Interactive Shopping Website
+Designed a user-facing web experience with structured navigation, product interaction, and interface logic.
 
-After the files are pushed:
+## Technical Areas
 
-1. Open the repository on GitHub.
-2. Click `Settings`.
-3. Click `Pages`.
-4. Under `Source`, choose `Deploy from a branch`.
-5. Select branch `main`.
-6. Select folder `/ (root)`.
-7. Click `Save`.
+- C#
+- Python
+- SQL
+- Unity
+- AI Automation
+- REST / API Integration
+- n8n
+- JSON Workflows
+- Mythril
 
-## Final Website Link
+## Resume
 
-After GitHub finishes deployment, your website should be available at:
+The website includes a resume section and downloadable CV for quick review.
 
-`https://clivexxh123-hub.github.io/CDS524-assignment-web/`
+## Contact
 
-## Notes
-
-- The first deployment may take a few minutes.
-- Refresh the Pages settings page if the link does not appear immediately.
-- If you update the local files later, use:
-
-```powershell
-git add .
-git commit -m "Update portfolio site"
-git push
-```
+- Email: `moccoymuhilkxu@163.com`
+- GitHub: [clivexxh123-hub](https://github.com/clivexxh123-hub)
+- LinkedIn: [clive-xu-786414403](https://www.linkedin.com/in/clive-xu-786414403/)
+- Location: Shenzhen / Hong Kong
